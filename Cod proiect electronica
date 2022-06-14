@@ -1,3 +1,4 @@
+source: https://www.arduino.cc/reference/en/libraries/arduino-cloud-provider-examples/
 /*
   AWS IoT GSM
   This sketch securely connects to an AWS IoT using MQTT over GSM/3G.
